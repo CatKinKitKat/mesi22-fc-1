@@ -1,0 +1,336 @@
+\glsdefs@newdocentry{IOC}%
+{%
+name={\acronymfont {\glsentryshort {IOC}}},%
+sort={IOC},%
+type={acronym},%
+first={IOC},%
+firstplural={IOCs},%
+text={IOC},%
+plural={IOCs},%
+description={IOC},%
+descriptionplural={IOC},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={IOC},%
+longplural={Indicadores de Comprometimento},%
+short={IOC},%
+shortplural={IOCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IOCs}%
+{%
+name={\acronymfont {\glsentryshort {IOCs}}},%
+sort={IOC},%
+type={acronym},%
+first={IOC},%
+firstplural={IOCs},%
+text={IOC},%
+plural={IOCs},%
+description={IOC},%
+descriptionplural={IOC},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={IOC},%
+longplural={Indicadores de Comprometimento},%
+short={IOC},%
+shortplural={IOCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IOA}%
+{%
+name={\acronymfont {\glsentryshort {IOA}}},%
+sort={IOA},%
+type={acronym},%
+first={IOA},%
+firstplural={IOAs},%
+text={IOA},%
+plural={IOAs},%
+description={IOA},%
+descriptionplural={IOA},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={IOA},%
+longplural={Indicadores de Ataque},%
+short={IOA},%
+shortplural={IOAs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IOAs}%
+{%
+name={\acronymfont {\glsentryshort {IOAs}}},%
+sort={IOA},%
+type={acronym},%
+first={IOA},%
+firstplural={IOAs},%
+text={IOA},%
+plural={IOAs},%
+description={IOA},%
+descriptionplural={IOA},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={IOA},%
+longplural={Indicadores de Ataque},%
+short={IOA},%
+shortplural={IOAs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{APT}%
+{%
+name={\acronymfont {\glsentryshort {APT}}},%
+sort={APT},%
+type={acronym},%
+first={APT},%
+firstplural={APTs},%
+text={APT},%
+plural={APTs},%
+description={APT},%
+descriptionplural={APT},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={APT},%
+longplural={Advanced Persistent Threats},%
+short={APT},%
+shortplural={APTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ATT CK}%
+{%
+name={\acronymfont {\glsentryshort {ATT CK}}},%
+sort={ATT CK},%
+type={acronym},%
+first={ATT CK},%
+firstplural={ATT CKs},%
+text={ATT CK},%
+plural={ATT CKs},%
+description={ATT CK},%
+descriptionplural={ATT CK},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={ATT CK},%
+longplural={Adversarial Tactics, Techniques, and Common Knowledge},%
+short={ATT CK},%
+shortplural={ATT CKs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{MITRE}%
+{%
+name={\acronymfont {\glsentryshort {MITRE}}},%
+sort={MITRE},%
+type={acronym},%
+first={MITRE},%
+firstplural={MITREs},%
+text={MITRE},%
+plural={MITREs},%
+description={MITRE},%
+descriptionplural={MITRE},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={MITRE},%
+longplural={The MITRE Corporation},%
+short={MITRE},%
+shortplural={MITREs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{TI}%
+{%
+name={\acronymfont {\glsentryshort {TI}}},%
+sort={TI},%
+type={acronym},%
+first={TI},%
+firstplural={TIs},%
+text={TI},%
+plural={TIs},%
+description={TI},%
+descriptionplural={TI},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={TI},%
+longplural={Tecnologias de Informação},%
+short={TI},%
+shortplural={TIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IT}%
+{%
+name={\acronymfont {\glsentryshort {IT}}},%
+sort={IT},%
+type={acronym},%
+first={IT},%
+firstplural={ITs},%
+text={IT},%
+plural={ITs},%
+description={IT},%
+descriptionplural={IT},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={IT},%
+longplural={Informations Technologies},%
+short={IT},%
+shortplural={ITs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ISO}%
+{%
+name={\acronymfont {\glsentryshort {ISO}}},%
+sort={ISO},%
+type={acronym},%
+first={ISO},%
+firstplural={ISOs},%
+text={ISO},%
+plural={ISOs},%
+description={ISO},%
+descriptionplural={ISO},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={ISO},%
+longplural={International Organization for Standardization},%
+short={ISO},%
+shortplural={ISOs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IEC}%
+{%
+name={\acronymfont {\glsentryshort {IEC}}},%
+sort={IEC},%
+type={acronym},%
+first={IEC},%
+firstplural={IECs},%
+text={IEC},%
+plural={IECs},%
+description={IEC},%
+descriptionplural={IEC},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={IEC},%
+longplural={International Electrotechnical Commission},%
+short={IEC},%
+shortplural={IECs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{NIST}%
+{%
+name={\acronymfont {\glsentryshort {NIST}}},%
+sort={NIST},%
+type={acronym},%
+first={NIST},%
+firstplural={NISTs},%
+text={NIST},%
+plural={NISTs},%
+description={NIST},%
+descriptionplural={NIST},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={NIST},%
+longplural={National Institute of Standards and Technology},%
+short={NIST},%
+shortplural={NISTs},%
+counter={page},%
+parent={},%
+%
+}%
+
