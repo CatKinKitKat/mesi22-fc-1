@@ -33,14 +33,14 @@
 \setbeamertemplate{page number in head/foot}{}
 
 % title and settings
-\title[Grupo 1]{Exemplo de apresentação}
-\subtitle{Trabalho de Grupo}
+\title[AMARO]{Trabalho Individual}
+\subtitle{Fundamentos de Cibersegurança}
 \institute[]{Escola Superior de Tecnologia e Gestão\\Instituto Politécnico de Beja}
 \titlegraphic{\includegraphics[height=2.0cm]{estig.png}}
-\author[Grupo 1]{Gonçalo Amaro -- 17440\\João Saragoça -- 24123\\João Macedo -- 24572} % Doc's author/s
+\author[17440]{Gonçalo Amaro -- 17440} % Doc's author/s
 \institute[]{Escola Superior de Tecnologia e Gestão\\Instituto Politécnico de Beja}
 \logo{\includegraphics[height=1.0cm]{estig.png}}
-\date{16 de Novembro, 2022} % Doc date
+\date{15 de Dezembro, 2022} % Doc date
 
 % presentation controls
 \addtobeamertemplate{navigation symbols}{}{%
@@ -70,9 +70,19 @@
 \end{frame}
 
 %input slides/chapters (cut and paste to separate files later)
-\input{slides/sample}
+\input{slides/intro.tex}
+
+\input{slides/attacks.tex}
+\input{slides/matrix.tex}
+
+\input{slides/tribulationtime.tex}
+\input{slides/iso.tex}
+\input{slides/forensics.tex}
+\input{slides/campaign.tex}
 
 \clearpage
-\printbibliography[heading=bibintoc]
+\nocite{*}
+\section{Referências}
+\printbibliography[heading=bibintoc, title={Referências}]
 
 \end{document}
